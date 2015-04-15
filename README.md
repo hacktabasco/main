@@ -4,6 +4,10 @@
 
 Hack Tabasco es un evento semanal dedicado a charlas y temas relevantes para la creación y desarrollo de productos o proyectos sociales, apoyándonos en la tecnología; para fomentar el emprendimiento innovador en la ciudad y contribuir al crecimiento de un ecosistema colectivo de personas creativas.
 
+## ¿Quienes somos?
+
+Vivimos de la tecnología y somos/nacimos en Tabasco
+
 ## ¿Porque?
 
 Como personas que vivimos de la tecnología vemos con recelo en el hecho que nuestro estado ha sido dejado atrás:
@@ -12,24 +16,25 @@ Como personas que vivimos de la tecnología vemos con recelo en el hecho que nue
  - Al desarrollo de productos y servicios dirijidos al mejoramiento en la calidad de vida de los ciudadados.
  - Al impulsar el ecosistema emprendedor hacia fuera del estado o incluso de nuestro país.
 
-Asi tambien por:
+Así también por:
 
- - La poca participacion de la sociedad y falta de propuestas para mejorar en este aspecto.
+ - La poca participación de la sociedad y falta de propuestas para mejorar en este aspecto.
  - La falta de unidad hacia una comunidad creativa e inovadora.
- - Porque no creemos en que irnos del estado o la region mejorara el problema.
+ - Porque no creemos en que irnos del estado o la región mejorara el problema.
 
-"Porque Tabasco y el sureste de Mexico nesecitan un Hack para mejorar pero ya!"
+"Porque Tabasco y el sureste de México nesecitan un Hack para mejorar pero ya!"
 
 ## ¿Como lo hacemos?
 
-No tenemos protocolo formal de presentacion, por eso mismo no tenemos ningun formato establecido, pero mas eso no significa que no tengamos orden en lo que hacemos, hacemos las cosas diferentes, rompemos los esquemas y "hackeamos" nuestro camino hacia ello.
+No tenemos protocolo formal de presentación, por eso mismo no tenemos formato establecido, pero mas eso no significa que no tengamos orden en lo que hacemos, hacemos las cosas diferentes, rompemos los esquemas y "hackeamos" nuestro camino hacia ello.
 
 ## Contribuir
 
-- Asistiendo a los envetos y comparitnedo aprendido en ellos.
-- Ofreciendonos un espacio de almenos 20 personas.
-- Darnos retroaliementacion de que te gustaria escuchar.
+- Asistiendo a los evetos y compartiendo lo aprendido en ellos.
+- Ofreciéndonos un espacio de almenos 20 personas.
+- Darnos retroaliementación de que te gustaría escuchar.
 - Preguntando todo lo que quieras al final de las charlas.
+- Dando una charla gratis en alguno de los eventos futuros.
 
 Contacto:
 [Grupo de Facebook](https://www.facebook.com/groups/536984139737471/)
