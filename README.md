@@ -6,9 +6,9 @@ Hack Tabasco es un evento semanal dedicado a charlas y temas relevantes para la 
 
 ## ¿Porque?
 
-Como profesioanles en tecnologia vemos con recelo en el hecho que nuestro estado ha sido dejado atras:
+Como personas que vivimos de la tecnología vemos con recelo en el hecho que nuestro estado ha sido dejado atrás:
 
- - En temas de innovacion enfocada hacia la tecnologia.
+ - En temas de innovación enfocada hacia la tecnología.
  - Al desarrollo de productos y servicios dirijidos al mejoramiento en la calidad de vida de los ciudadados.
  - Al impulsar el ecosistema emprendedor hacia fuera del estado o incluso de nuestro país.
 
@@ -31,10 +31,10 @@ No tenemos protocolo formal de presentacion, por eso mismo no tenemos ningun for
 - Darnos retroaliementacion de que te gustaria escuchar.
 - Preguntando todo lo que quieras al final de las charlas.
 
+Contacto:
 [Grupo de Facebook](https://www.facebook.com/groups/536984139737471/)
 
 ## Eventos
 
 [Hack Tabasco N1](https://www.eventbrite.com/e/hack-tabasco-tickets-16592099416)
-
 
