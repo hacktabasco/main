@@ -10,7 +10,7 @@ Vivimos de la tecnología y somos/nacimos en Tabasco
 
 ## ¿Porque?
 
-Como personas que vivimos de la tecnología vemos con recelo en el hecho que nuestro estado ha sido dejado atrás:
+Como personas que vivimos de la tecnología vemos con recelo en el hecho que nuestro estado ha quedado atrás:
 
  - En temas de innovación enfocada hacia la tecnología.
  - Al desarrollo de productos y servicios dirijidos al mejoramiento en la calidad de vida de los ciudadados.
