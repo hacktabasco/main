@@ -20,7 +20,12 @@ Como profesioanles en tecnologia vemos con recelo en el hecho que nuestro estado
 
 No tenemos protocolo formal de presentacion, por eso mismo no tenemos ningun formato establecido, pero mas eso no significa que no tengamos orden en lo que hacemos, hacemos las cosas diferentes, rompemos los esquemas y "hackeamos" nuestro camino hacia ello.
 
-## Contribuir 
+## Contribuir
+
+- Asistiendo a los envetos y comparitnedo aprendido en ellos.
+- Ofreciendonos un espacio de almenos 20 personas.
+- Darnos retroaliementacion de que te gustaria escuchar.
+- Preguntando todo lo que quieras al final de las charlas.
 
 [Grupo de Facebook](https://www.facebook.com/groups/536984139737471/)
 
