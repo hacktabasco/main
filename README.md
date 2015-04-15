@@ -28,10 +28,10 @@ Así también por:
 
 No tenemos protocolo formal de presentación, por eso mismo no tenemos formato establecido, pero mas eso no significa que no tengamos orden en lo que hacemos, hacemos las cosas diferentes, rompemos los esquemas y "hackeamos" nuestro camino hacia ello.
 
-## Contribuir
+## ¿Como contribuir?
 
-- Asistiendo a los evetos y compartiendo lo aprendido en ellos.
-- Ofreciéndonos un espacio de almenos 20 personas.
+- Asistiendo a los eventos y compartiendo lo aprendido en ellos.
+- Ofreciéndonos un espacio de al menos 20 personas.
 - Darnos retroaliementación de que te gustaría escuchar.
 - Preguntando todo lo que quieras al final de las charlas.
 - Dando una charla gratis en alguno de los eventos futuros.
