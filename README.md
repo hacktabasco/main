@@ -41,8 +41,8 @@ Contacto:
 
 ## Eventos
 
-[Hack Tabasco N1](https://www.eventbrite.com/e/hack-tabasco-tickets-16592099416)
-[Hack Tabasco N2](http://www.eventbrite.com/e/hack-tabasco-tickets-16733691923)
+- [Hack Tabasco N1](https://www.eventbrite.com/e/hack-tabasco-tickets-16592099416)
+- [Hack Tabasco N2](http://www.eventbrite.com/e/hack-tabasco-tickets-16733691923)
 
 
 ## Nos apoyan
