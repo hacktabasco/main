@@ -21,6 +21,7 @@ Así también por:
  - La poca participación de la sociedad y falta de propuestas para mejorar en este aspecto.
  - La falta de unidad hacia una comunidad creativa e inovadora.
  - Porque no creemos en que irnos del estado o la región mejorara el problema.
+ - Por el mal uso de los recursos dedicados a este tema en el Estado.
 
 "Porque Tabasco y el sureste de México nesecitan un Hack para mejorar pero ya!"
 
