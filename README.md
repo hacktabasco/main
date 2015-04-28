@@ -32,7 +32,7 @@ No tenemos protocolo formal de presentación, por eso mismo no tenemos formato e
 ## ¿Como contribuir?
 
 - Asistiendo a los eventos y compartiendo lo aprendido en ellos.
-- Ofreciéndonos un espacio de al menos 20 personas.
+- Ofreciéndonos un espacio de para al menos 20 personas.
 - Darnos retroaliementación de que te gustaría escuchar.
 - Preguntando todo lo que quieras al final de las charlas.
 - Dando una charla gratis en alguno de los eventos futuros.
