@@ -49,7 +49,6 @@ Contacto:
 
 
 ## Nos apoyan
-- Echo Soluciones Empresariales
 - [Incubasoft](http://www.incubasoft.com)
 - [Zable Studios LLC](http://zablestudios.com)
 
