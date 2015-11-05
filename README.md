@@ -2,15 +2,15 @@
 
 ## ¿Que es?
 
-Hack Tabasco es un evento dedicado a charlas y temas relevantes para la creación y desarrollo de productos o proyectos sociales, apoyándonos en la tecnología; para fomentar el emprendimiento innovador en la ciudad y contribuir al crecimiento de un ecosistema colectivo de personas creativas.
+Hack Tabasco es un movimiento dedicado a promover temas relevantes para la creación y desarrollo de productos o proyectos sociales o "startups" de base tecnologica, apoyándonos en la misma; para así fomentar el emprendimiento innovador en la región y contribuir al crecimiento de un ecosistema colectivo de personas creativas y emprendedoras.
 
 ## ¿Quienes somos?
 
-Vivimos de la tecnología y somos/nacimos en Tabasco
+Grupo de individuos de diversos perfiles y experiencias, ademas de actores involucrados en el ecosistema emprendedor de todas partes del mundo. 
 
 ## ¿Porque?
 
-Como personas que vivimos de la tecnología vemos con recelo en el hecho que nuestro estado ha quedado atrás:
+Como personas que promovermos la tecnología vemos con recelo en el hecho que nuestro estado ha quedado atrás:
 
  - En temas de innovación enfocada hacia la tecnología.
  - Al desarrollo de productos y servicios dirijidos al mejoramiento en la calidad de vida de los ciudadados.
